@@ -1,29 +1,37 @@
 <!DOCTYPE html> 
 <html> 
-    <head> 
-    	<title>My Page</title> 
-    	<meta name="viewport" content="width=device-width, initial-scale=1"> 
-    	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.0/jquery.mobile-1.0.min.css" />
-    	<script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
-    	<script type="text/javascript" src="http://code.jquery.com/mobile/1.0/jquery.mobile-1.0.min.js"></script>
-        <script type="text/javascript" src="js/test.js"></script>
-    </head> 
-<body> 
+	<head> 
+	<title>My Page</title> 
+	<meta name="viewport" content="width=device-width, initial-scale=1"> 
+	<link rel="stylesheet" href="css/jquery.mobile-1.0.css" />
+	<script src="js/jquery-1.7.1.js"></script>
+	<script src="js/jquery.mobile-1.0.js"></script>
+	<script src="js/jquery.indexeddb.js"></script>
+	<script src="js/test jQuery_indexeddb.js"></script>	
+	</head> 
+	
+	<body> 
 
-<div data-role="page">
+		<div data-role="page">
+	
+			<div data-role="header">
+				<h1>Testing jQueryMobile</h1>
+			</div>
+		
+			<div data-role="content">	
+				<ul id="lista" data-role="listview" data-inset="true" data-filter="true">
+					<li><a href="http://localhost/Mobile%20Framework%20Test">Acura</a></li>
+					<li><a href="#" id="openDB">Open\Create DB</a></li>
+					<li><a href="#" id="createOS">create OS</a></li>
+					<li><a href="#" id="savedata">savedata</a></li>
+					<li><a href="#" id="getdata" title="pepe">getdata</a></li>					
+				</ul>	
+				
+				<h1> </h1>	
+				
 
-	<div data-role="header">
-		<h1>My Title</h1>
-	</div><!-- /header -->
-
-	<div data-role="content">	
-		<p>Hello world 2</p>
-        <p></p>
-        <a id="toto" href="#">Click Here</a>
-        <a id="tota" href="#">Click aca</a>
-	</div><!-- /content -->
-
-</div><!-- /page -->
-
-</body>
+			</div>
+		</div>
+	
+	</body>
 </html>
