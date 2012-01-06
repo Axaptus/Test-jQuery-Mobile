@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list id="67ce62b0-ef7b-45a8-8ee7-0163e98e74fe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/test jQuery.Mobile.js" />
-      <change type="DELETED" beforePath="C:\Documents and Settings\dparodi\Mis documentos\WebProjects\Test-jQuery-Mobile\js\test.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Documents and Settings\dparodi\Mis documentos\WebProjects\Test-jQuery-Mobile\test1.html" afterPath="" />
-      <change type="MOVED" beforePath="C:\Documents and Settings\dparodi\Mis documentos\WebProjects\Test-jQuery-Mobile\index.html" afterPath="$PROJECT_DIR$/index1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list id="67ce62b0-ef7b-45a8-8ee7-0163e98e74fe" name="Default" comment="" />
     <list default="true" id="5825af05-e44d-46e4-8941-75e34f5b0ae0" name="Dani1" comment="Dani1">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Test-jQuery-Mobile.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="5825af05-e44d-46e4-8941-75e34f5b0ae0" time="1325885188017" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,28 +25,7 @@
     <favorites_list name="Test-jQuery-Mobile" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="42" selection-start="501" selection-end="501" vertical-scroll-proportion="-0.65384614">
-              <folding>
-                <element signature="tag#div#2;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test jQuery.Mobile.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/test jQuery.Mobile.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="14" selection-start="387" selection-end="387" vertical-scroll-proportion="0.478355">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -302,11 +275,11 @@
     <frame x="-4" y="-4" width="1448" height="878" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3292011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30991736" sideWeight="0.49752998" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2827298" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24982357" sideWeight="0.23553719" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24982357" sideWeight="0.6707989" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24982357" sideWeight="0.6707989" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47107437" sideWeight="0.49752998" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49173555" sideWeight="0.49752998" order="7" side_tool="true" content_ui="tabs" />
@@ -356,7 +329,7 @@
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <option name="CREATE_PATCH_EXPAND_DETAILS_DEFAULT" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing from WS - 20120106" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dani1" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -373,6 +346,7 @@
     <MESSAGE value="Testing from WS - 1" />
     <MESSAGE value="Testing from WS - 20120103" />
     <MESSAGE value="Testing from WS - 20120106" />
+    <MESSAGE value="Dani1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -441,19 +415,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/js/test jQuery.Mobile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="42" selection-start="501" selection-end="501" vertical-scroll-proportion="-0.65384614">
-          <folding>
-            <element signature="tag#div#2;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
+        <state line="13" column="14" selection-start="387" selection-end="387" vertical-scroll-proportion="0.3152639">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/test jQuery.Mobile.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="14" selection-start="387" selection-end="387" vertical-scroll-proportion="0.478355">
-          <folding />
+        <state line="15" column="42" selection-start="501" selection-end="501" vertical-scroll-proportion="0.025185185">
+          <folding>
+            <element signature="tag#div#2;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
