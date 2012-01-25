@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list id="67ce62b0-ef7b-45a8-8ee7-0163e98e74fe" name="Default" comment="" />
-    <list default="true" id="5825af05-e44d-46e4-8941-75e34f5b0ae0" name="Dani1" comment="Dani1">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index1.html" />
+    <list default="true" id="5825af05-e44d-46e4-8941-75e34f5b0ae0" name="Dani1" comment="Testing from WS - 20120106 - Change List Dani1">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Test-jQuery-Mobile.iws" />
@@ -25,7 +24,26 @@
     <favorites_list name="Test-jQuery-Mobile" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="0" selection-start="464" selection-end="464" vertical-scroll-proportion="0.037777778">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test jQuery.Mobile.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/test jQuery.Mobile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="3" selection-start="961" selection-end="961" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -58,6 +76,9 @@
         <option value="$PROJECT_DIR$/js/test jQuery_indexeddb.js" />
         <option value="$PROJECT_DIR$/js/test jQuery.Mobile.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/test2.html" />
+        <option value="$PROJECT_DIR$/js/ganancias.js" />
+        <option value="$PROJECT_DIR$/test3.html" />
       </list>
     </option>
   </component>
@@ -142,6 +163,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -170,16 +192,16 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="project.propVCSSupport.VCSs.Git" />
-    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="DefaultHtmlFileTemplate" value="Html" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -272,24 +294,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1448" height="878" extended-state="6" />
+    <frame x="-4" y="-4" width="1448" height="878" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30991736" sideWeight="0.49752998" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30991736" sideWeight="0.49752998" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2827298" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24982357" sideWeight="0.23553719" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24982357" sideWeight="0.6707989" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17642908" sideWeight="0.2107438" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17642908" sideWeight="0.46969697" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47107437" sideWeight="0.49752998" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49173555" sideWeight="0.49752998" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49173555" sideWeight="0.49752998" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="JsTestDriver Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2630854" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JsTestDriver Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2630854" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292011" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -329,7 +351,7 @@
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <option name="CREATE_PATCH_EXPAND_DETAILS_DEFAULT" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dani1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing from WS - 20120106 - Change List Dani1" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -347,6 +369,7 @@
     <MESSAGE value="Testing from WS - 20120103" />
     <MESSAGE value="Testing from WS - 20120106" />
     <MESSAGE value="Dani1" />
+    <MESSAGE value="Testing from WS - 20120106 - Change List Dani1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -375,59 +398,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/jquery-1.7.1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3417" column="40" selection-start="94225" selection-end="94225" vertical-scroll-proportion="0.63081396">
-          <folding />
-        </state>
+        <state line="3417" column="40" selection-start="94225" selection-end="94225" vertical-scroll-proportion="0.63081396" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/test indexeddb.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="49" selection-start="290" selection-end="304" vertical-scroll-proportion="0.19400856">
-          <folding />
-        </state>
+        <state line="8" column="49" selection-start="290" selection-end="304" vertical-scroll-proportion="0.19400856" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/jquery.indexeddb.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="217" column="30" selection-start="12202" selection-end="12202" vertical-scroll-proportion="0.9505814">
-          <folding />
-        </state>
+        <state line="217" column="30" selection-start="12202" selection-end="12202" vertical-scroll-proportion="0.9505814" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/test jQuery_indexeddb.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="22" selection-start="767" selection-end="767" vertical-scroll-proportion="0.87303853">
-          <folding />
-        </state>
+        <state line="36" column="22" selection-start="767" selection-end="767" vertical-scroll-proportion="0.87303853" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/jquery.mobile-1.0.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4122" column="0" selection-start="132786" selection-end="132786" vertical-scroll-proportion="-8.414245">
-          <folding />
-        </state>
+        <state line="4122" column="0" selection-start="132786" selection-end="132786" vertical-scroll-proportion="-8.414245" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="28" selection-start="237" selection-end="237" vertical-scroll-proportion="0.23394495">
-          <folding />
-        </state>
+        <state line="6" column="28" selection-start="237" selection-end="237" vertical-scroll-proportion="0.06814815" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/ganancias.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="14" selection-start="470" selection-end="470" vertical-scroll-proportion="-0.23680456" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/test jQuery.Mobile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="14" selection-start="387" selection-end="387" vertical-scroll-proportion="0.3152639">
-          <folding />
-        </state>
+        <state line="34" column="3" selection-start="961" selection-end="961" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="42" selection-start="501" selection-end="501" vertical-scroll-proportion="0.025185185">
-          <folding>
-            <element signature="tag#div#2;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
+        <state line="14" column="0" selection-start="464" selection-end="464" vertical-scroll-proportion="0.037777778">
+          <folding />
         </state>
       </provider>
     </entry>
