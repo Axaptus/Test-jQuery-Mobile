@@ -2,10 +2,10 @@ $(document).ready(function() {
 
    	var toggle = true;
        	
-    $("#slLists").click(function() {
-        $.mobile.changePage("#slListsPage", {changeHash:true, transition:"slide"});
-        return false;
-    });
+    // $("#slLists").click(function() {
+        // $.mobile.changePage("#slABM", {changeHash:true, transition:"slide"});
+        // return false;
+    // });
 
     $("#slAddListItem1").click(function() {
 

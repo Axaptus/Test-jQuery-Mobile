@@ -21,31 +21,31 @@
 		
 			<div data-role="content">
 				<ul id="listHome" data-role="listview" data-inset="true">
-					<li><a href="#slListsPage" id="slLists">Listas</a></li>
+					<li><a href="#slABM" id="slLists">Lists</a></li>
 					<li><a href="index1.html"  id="slItems">Items</a></li>
-					<li><a href="#" id="slOptions">Opciones</a></li>
-					<li><a href="#" id="slExit">Salir</a></li>
+					<li><a href="#" id="slOptions">Options</a></li>
+					<li><a href="#" id="slExit">Exit</a></li>
 				</ul>
 			</div>
 
             <div data-role="footer" data-position="fixed">
-                <h4>I'm the footer</h4>
+                <h4>MOVA</h4>
             </div>
 
 		</div>
 
-        <div data-role="page" id="slListsPage">
+        <div data-role="page" id="slABM">
 
             <div data-role="header" data-position="fixed">
-                <h1>Listas</h1>
+                <h1>Lists</h1>
             </div>
 
             <div data-role="content">
-                <ul id="listLists" data-role="listview" data-inset="true">
-                    <li><a href="#" id="slNewList">Nueva lista</a></li>
-                    <li><a href="#" id="slModifyList">Modificar</a></li>
-                    <li><a href="#" id="slDeleteList">Eliminar</a></li>
-                    <li><a href="#" class="slBack">Volver</a></li>
+                <ul id="listABM" data-role="listview" data-inset="true">
+                    <li><a href="#slListSettings" id="slNew">New</a></li>
+                    <li><a href="#slListSettings" id="slEdit">Edit</a></li>
+                    <li><a href="#" id="slDelete">Delete</a></li>
+                    <li><a href="#" class="slBack">Back</a></li>
                 </ul>
 
                 <h1> </h1>
@@ -54,9 +54,39 @@
             </div>
 
             <div data-role="footer" data-position="fixed">
-                <h4>I'm the footer</h4>
+                <h4>MOVA</h4>
             </div>
 
         </div>
+        
+		<!-- Begin: List settings page -->
+		<div id="slListSettings" data-role="page">
+			
+			<header data-role="header"><h1>List settings</h1></header>
+			
+			<div class="content" data-role="content">
+				<h3>Settings</h3>
+				<div data-role="fieldcontain">
+					<label for="slListName">List Name:</label>
+					<input type="text" id="slListName" value="Type list name">
+					<label for="slListDescription">Description:</label>
+					<input type="text" id="slListDescription" value="">
+
+					<label for="slListCategory">Category:</label>
+					<select id="slListCategory" data-native-menu="false">
+						<option value="slPH1">Category 1</option>
+						<option value="slPH2">Category 2</option>
+						<option value="slPH3">Category 3</option>
+					</select>
+
+				</div>
+			</div>
+			
+            <footer data-role="footer" data-position="fixed">
+                <h4>MOVA</h4>
+            </footer>
+		</div>
+		<!-- End: List settings page -->    
+		    
 	</body>
 </html>
