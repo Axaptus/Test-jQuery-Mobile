@@ -1,3 +1,14 @@
+// (function(){
+			// console.log(this);
+	// }
+// )();
+
+// function pepe(){
+	// console.log(this);
+// }
+
+// pepe();
+
 $(document).ready(function() {
 
    	var toggle = true;
@@ -7,13 +18,13 @@ $(document).ready(function() {
         // return false;
     // });
 
-    $("#slAddListItem1").click(function() {
+    $("a") .click(function() {
 
-            //var idText = Math.random();
-            // Initialize the list view
-            //$("#listHome").listview();
-
-            //$("#listHome").append("<li><a href='#' id='slExit'" + idText + ">Salir " + idText + "</a></li>").listview("refresh");
+            // var idText = Math.random();
+            // //Initialize the list view
+            // $("#listHome").listview();
+// 
+            // $("#listHome").append("<li><a href='#' id='slExit'" + idText + ">Salir " + idText + "</a></li>").listview("refresh");
             
        	//var mySlider = $("#slider-music");
 
@@ -27,7 +38,13 @@ $(document).ready(function() {
 		//toggle = !toggle;
 		//mySlider.slider("refresh");
 		
-		$.mobile.silentScroll(500);
+		//$.mobile.silentScroll(500);
+		
+		//obj.doIt();
+		
+		//console.log($(this));
+
+		
     });
     
  
