@@ -12,20 +12,20 @@
 $(document).ready(function() {
 
    	var toggle = true;
-       	
+
     // $("#slLists").click(function() {
         // $.mobile.changePage("#slABM", {changeHash:true, transition:"slide"});
         // return false;
     // });
 
-    $("a") .click(function() {
+    $("a").click(function() {
 
             // var idText = Math.random();
             // //Initialize the list view
             // $("#listHome").listview();
-// 
+//
             // $("#listHome").append("<li><a href='#' id='slExit'" + idText + ">Salir " + idText + "</a></li>").listview("refresh");
-            
+
        	//var mySlider = $("#slider-music");
 
 		// Disable a slider
@@ -37,16 +37,23 @@ $(document).ready(function() {
 		//mySlider[0].selectedIndex = !mySlider[0].selectedIndex;
 		//toggle = !toggle;
 		//mySlider.slider("refresh");
-		
+
 		//$.mobile.silentScroll(500);
-		
+
 		//obj.doIt();
-		
+
 		//console.log($(this));
 
-		
+        if (true) {
+            console.log(typeof(toggle));
+            $('#slHome').append("<p>porotiiiiiiiiiii</p>")
+                    .append("<p>poroto</p>")
+                    .append("<br>")
+                    .append('<p>patata</p>');
+
+        };
+
+
     });
-    
- 
 
 });

@@ -1,27 +1,27 @@
-<!DOCTYPE html> 
-<html> 
-	<head> 
+<!DOCTYPE html>
+<html>
+	<head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        
+
         <link rel="stylesheet" href="css/jquery.mobile-1.1.0-rc.1.css" />
         <script src="js/jquery-1.7.1.js"></script>
         <script src="js/test jQuery.Mobile.js"></script>
         <script src="js/jquery.mobile-1.1.0-rc.1.js"></script>
         <script src="js/jquery.indexeddb.js"></script>
-        
+
         <title>Shopping List Project</title>
 
-	</head> 
-	
-	<body> 
+	</head>
+
+	<body>
 
 		<div data-role="page" id="slHome" data-theme="e">
-			
+
 			<div data-role="header" data-position="fixed" data-theme="e">
 				<h1>Shopping List</h1>
 			</div>
-		
+
 			<div data-role="content">
 				<ul id="listHome" data-role="listview" data-inset="true">
 					<li><a href="#slABM" id="slLists">Lists</a></li>
@@ -37,6 +37,7 @@
 
 		</div>
 
+        <!-- Begin: CRUD interface -->
         <div data-role="page" id="slABM">
 
             <div data-role="header" data-position="fixed">
@@ -61,12 +62,13 @@
             </div>
 
         </div>
-        
+        <!-- End: CRUD interface -->
+
 		<!-- Begin: List settings page -->
 		<div id="slListSettings" data-role="page">
-			
+
 			<header data-role="header" data-position="fixed"><h1>List settings</h1></header>
-			
+
 			<div class="content" data-role="content">
 				<h3>Settings</h3>
 				<div data-role="fieldcontain" data-role="">
@@ -81,22 +83,23 @@
 						<option value="slPH2">Category 2</option>
 						<option value="slPH3">Category 3</option>
 					</select>
-					
-<!-- 					<div data-role="fieldcontain"> -->
-					<label for="slider-0">Input slider:</label>
-					<input type="range" name="slider" id="slider-0" value="60" min="0" max="100" data-highlight="true" />
-<!-- 					<div> -->
 
 
-		
+				<label for="slider-0">Input slider:</label>
+				<input type="range" name="slider" id="slider-0" value="60" min="0" max="100" data-highlight="true" />
+
+
+
+
 				</div>
 			</div>
-			
+
             <footer data-role="footer" data-position="fixed">
                 <h4>MOVA</h4>
             </footer>
+
 		</div>
-		<!-- End: List settings page -->    
-		    
+		<!-- End: List settings page -->
+
 	</body>
 </html>
